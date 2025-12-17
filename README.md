@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou Maick 
 
-<!--
-**MaickCross/MaickCross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Ciência da Computação**, desenvolvedor com foco em  **desenvolvimento backend** e cientista de dados. Tenho forte interesse em compreender os fundamentos teóricos da computação e aplicá-los de forma prática por meio de projetos acadêmicos e pessoais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Formação Acadêmica
+
+* 🎓 **Ciência da Computação** – Universidade Estadual do Sudoeste da Bahia (UESB)
+* 💻 **Residência em Software como Cientista de Dados** – RESTIC36 - CEPEDI
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+---
