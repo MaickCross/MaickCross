@@ -1,17 +1,20 @@
-# 👋 Olá, eu sou Maick 
+# Hello there, I'm Maick👋
 
+<div align="center">
+  <p>Computer Science Student | Java & Python Software Engineer | Data Engineer & Data Scientist | Competitive Programmer</p>
+  
 Sou estudante de **Ciência da Computação**, desenvolvedor com foco em  **desenvolvimento backend** e **cientista de dados**. Tenho forte interesse em compreender os fundamentos teóricos da computação e aplicá-los de forma prática por meio de projetos acadêmicos e pessoais.
 
 ---
 
-## 🎓 Formação Acadêmica
+## 🌱 About me
 
-* 🎓 **Ciência da Computação** – Universidade Estadual do Sudoeste da Bahia (UESB)
+* 🎓 7th-semester Computer Science student at UESB
 * 💻 **Residência em Software como Cientista de Dados** – RESTIC36 - CEPEDI
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
