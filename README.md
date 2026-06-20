@@ -12,7 +12,7 @@ Whether I'm structuring a relational database, building a RESTful API, or orches
 
 ###
 
-<h2 align="left">🚀 Main Focus & About Me</h2>
+<h2 align="left">🚀 About Me</h2>
 
 ###
 
